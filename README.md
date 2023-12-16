@@ -11,15 +11,15 @@ A clean user-interface that lets users enter their prompt, which sends a request
 
 ## How to use it
 
-- Clone the Repo, cd to the project folder and run the command ```bash npm install ```
+- Clone the Repo, cd to the project folder and run the command ```npm install```
 - Set the env variables on the .env file
     - create an .env file on the project's root folder.
     - Go to google cloud console and create a project (if not already created) and copy the project id and paste it on VITE_GOOGLE_PROJECT_ID in the .env file
     - Install gcloud CLI
-    - run the command - ```bash gcloud auth login``` to authorize your account
-    - run the command - ```bash gcloud auth print-access-token ``` to get the access token and paste it on VITE_GCLOUD_AUTH_TOKEN in the .env file
-- Run the application - ```bash npm run dev ```
+    - run the command - ```gcloud auth login``` to authorize your account
+    - run the command - ```gcloud auth print-access-token``` to get the access token and paste it on VITE_GCLOUD_AUTH_TOKEN in the .env file
+- Run the application - ```npm run dev```
 
-Any queries? Feel free to reach out to me at naveenrk.official@gmail.com
+Any queries? Feel free to reach out to me at naveenrk.official@gmail.com or text me on [LinkedIn](https://linkedin.com/in/naveen-rk)
 
 Thank you!!

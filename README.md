@@ -3,6 +3,7 @@
 ![Wallpaper](./src/assets/image1.png)
 ![Logo](./src/assets/image2.png)
 ![Iron Man](./src/assets/image3.png)
+![Iron Man](./src/assets/iron%20man.png)
 
 A clean user-interface that lets users enter their prompt, which sends a request to Imagen 2 API (Google's Most Advanced Text To Image Model), fetches the image based on the prompt and displays it on the page.
 

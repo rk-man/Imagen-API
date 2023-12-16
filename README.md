@@ -21,3 +21,5 @@ A clean user-interface that lets users enter their prompt, which sends a request
 - Run the application - ```bash npm run dev ```
 
 Any queries? Feel free to reach out to me at naveenrk.official@gmail.com
+
+Thank you!!

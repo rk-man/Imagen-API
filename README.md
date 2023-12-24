@@ -17,6 +17,8 @@ A clean user-interface that lets users enter their prompt, which sends a request
 
 - Clone the Repo, cd to the project folder and run the command ```npm install```
 - Set the env variables on the .env file
+    - On your google cloud console dashboard, make sure you are on the project you have created
+    - Toggle the menu bar on the left, click on APIs & Services, Search for <strong>Vertex AI</strong> and click on enable
     - create an .env file on the project's root folder.
     - Go to google cloud console and create a project (if not already created) and copy the project id and paste it on VITE_GOOGLE_PROJECT_ID in the .env file
     - Install gcloud CLI

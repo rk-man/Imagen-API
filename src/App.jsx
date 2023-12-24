@@ -51,7 +51,8 @@ function App() {
 
       setLoading(false)
 
-      console.log(res);
+      console.log("Image is processing...please wait!!!")
+
     }
     catch(err){
       console.log(err)
